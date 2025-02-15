@@ -5,7 +5,7 @@ ccc------CCC
 ddd------DDD
 eee------EEE
 fff------FFF
-ggg------
+ggg------GGG
 ğğğ------
 hhh------
 ııı------

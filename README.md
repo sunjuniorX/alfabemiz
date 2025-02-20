@@ -10,7 +10,7 @@ ggg------GGG
 hhh------HHH
 ııı------III
 iii------İİİ
-jjj------
+jjj------JJJ
 kkk------
 lll------
 mmm------

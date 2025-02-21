@@ -11,7 +11,7 @@ hhh------HHH
 ııı------III
 iii------İİİ
 jjj------JJJ
-kkk------
+kkk------KKK
 lll------
 mmm------
 nnn------

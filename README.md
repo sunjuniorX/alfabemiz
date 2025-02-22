@@ -12,7 +12,7 @@ hhh------HHH
 iii------İİİ
 jjj------JJJ
 kkk------KKK
-lll------
+lll------LLL
 mmm------
 nnn------
 ooo------

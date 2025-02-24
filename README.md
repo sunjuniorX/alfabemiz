@@ -14,7 +14,7 @@ jjj------JJJ
 kkk------KKK
 lll------LLL
 mmm------MMM
-nnn------
+nnn------NNN
 ooo------
 ööö------
 ppp------

@@ -15,7 +15,7 @@ kkk------KKK
 lll------LLL
 mmm------MMM
 nnn------NNN
-ooo------
+ooo------OOO
 ööö------
 ppp------
 rrr------

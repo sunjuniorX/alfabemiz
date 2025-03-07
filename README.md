@@ -25,7 +25,7 @@ ttt------TTT
 uuu------UUU
 üüü------ÜÜÜ
 vvv------VVV
-yyy------
+yyy------YYY
 zzz------
 xxx------
 qqq------

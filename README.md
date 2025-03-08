@@ -26,7 +26,7 @@ uuu------UUU
 üüü------ÜÜÜ
 vvv------VVV
 yyy------YYY
-zzz------
+zzz------ZZZ
 xxx------
 qqq------
 www------

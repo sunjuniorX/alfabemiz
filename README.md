@@ -1,6 +1,6 @@
 # alfabemiz
 aaa------AAA------A1
-bbb------BBB------
+bbb------BBB------B1
 ccc------CCC------
 ddd------DDD------
 eee------EEE------
